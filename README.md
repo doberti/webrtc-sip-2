@@ -12,8 +12,8 @@ After cloning the repository, open `js/main.js` and set the `domain` variable to
 
 Then install the npm dependencies an run the application with npm start. The app will be available at https://localhost:8080
 
-    git clone https://github.com/agilityfeat/webrtc-sip-example.git
-    cd webrtc-sip-example
+    git clone ...
+    cd webrtc-sip-2
     npm install
     npm start
 
